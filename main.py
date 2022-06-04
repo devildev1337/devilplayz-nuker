@@ -52,4 +52,4 @@ async def baap(ctx):
         pass
 
 bot.load_extension('jishaku')
-bot.run('OTgyNTQyMjQ0MzQ1MTY3OTEy.G7SOEb.8Y6zmCSUy6SNCOatfT1VgeU6X1ZZK2lp8jiLwY')        
+bot.run('YOUR TOKEN HERE')        
